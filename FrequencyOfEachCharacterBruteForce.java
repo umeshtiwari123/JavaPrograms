@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class FrequencyOfEachCharacter{
+class FrequencyOfEachCharacterBruteForce{
 
 	public static void main(String[] args)
 	{
